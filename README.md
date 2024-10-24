@@ -1,1 +1,1 @@
-# shiprapid
+# ShipRapid Android App
